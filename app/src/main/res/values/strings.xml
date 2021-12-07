@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_translate_text">Hello <br><b>Holla</b> <br>Bonjour</br><br>Nǐn hǎo
+    </br> <br>Sawubona</br></br></string>
+
+
+    <string name="get_started">Get Started</string>
+
+    <string name="bulk_text">As a language solutions provider, we know that clear
+        communication is the first step to achieving understanding.
+        That is why we have take our time to provide you with over 50
+        high quality language translations.</string>
+
+    <string name="language_translator">Language Translator</string>
+    <string name="translate_button">Translate</string>
+    <string name="say_something">Or<br><b>Say Something</b></br></string>
+    <string name="source_text"></string>
+    <string name="from">From</string>
+    <string name="Mic">this is the image of the Mic that enable you to speak instead of type</string>
+    <string name="header_image">Header image</string>
+    <string name="text">Text</string>
+    <string name="this_is_the_image_of_a_microphone">this is the image of a microphone</string>
+    <string name="translated_text">Translated text</string>
+    <string name="translate_text">Translate</string>
+    <string name="translate">Translate</string>
+    <string name="clear_history">Clear History</string>
+    <string name="history">History</string>
+    <string name="home">History</string>
+    <string name="support_us">Support Us</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="rate">Rate</string>
+    <string name="contact_us">Contact</string>
+    <string name="contact">Contact</string>
+    <string name="us">About Us</string>
+    <string name="message">Message</string>
+
+
+    <!--    ACTIONBARTOGGLE STRINGS-->
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="say_something_instead">Say something instead</string>
+    <string name="clears_">this button clears the history</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sighin_text">Use an account or Register to enjoy the wonderful features of this App</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Log in</string>
+    <string name="use_google_or_facebook">use google or facebook</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="first_name">First Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="facebook">this image anables facebook sig In</string>
+    <string name="google">this image enables google sign IN</string>
+    <string name="social">sign in with facebook or google</string>
+    <string name="signout">SignOut</string>
+
+
+</resources>

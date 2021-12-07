@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<item
+    android:id="@+id/Home"
+    android:title="@string/home">
+    <menu>
+        <item
+            android:id="@+id/history"
+            android:title="@string/history"
+            android:icon="@drawable/history"
+            android:checkable="true">
+        </item>
+
+        <item
+            android:id="@+id/clear_history"
+            android:title="@string/clear_history"
+            android:icon="@drawable/clear_history"
+            android:checkable="true">
+        </item>
+    </menu>
+</item>
+<!--_____________________________________________-->
+
+    <item
+        android:id="@+id/about_us"
+        android:title="@string/us">
+
+        <menu>
+            <item
+                android:id="@+id/like"
+                android:title="@string/like"
+                android:icon="@drawable/like"
+                android:checkable="true">
+            </item>
+            <item
+                android:id="@+id/share"
+                android:title="@string/share"
+                android:icon="@drawable/share"
+                android:checkable="true">
+            </item>
+
+            <item
+                android:id="@+id/rate"
+                android:title="@string/rate"
+                android:icon="@drawable/rate"
+                android:checkable="true">
+            </item>
+                </menu>
+
+        <!--        ______________________________________________________-->
+            </item>
+
+    <item
+        android:id="@+id/contact_us"
+        android:title="@string/contact">
+        <menu>
+        <item
+            android:id="@+id/contact"
+            android:title="@string/contact"
+            android:icon="@drawable/contact"
+            android:checkable="true">
+        </item>
+            <item
+                android:id="@+id/message"
+                android:title="@string/message"
+                android:icon="@drawable/message"
+                android:checkable="true">
+
+            </item>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@color/white">
+
+        <menu>
+            <item
+                android:id="@+id/SignOut"
+                android:title="@string/signout"
+                android:icon="@drawable/person"/>
+        </menu>
+    </item>
+
+</menu>
+
+
